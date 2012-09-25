@@ -21,6 +21,8 @@ repos = %w!
   paperboy-heteml/heteml-dev.wiki
   paperboy-jugemcart/jugemcart-admin.wiki
   paperboy-jugemcart/jugemcart-puppet.wiki
+  paperboy-30days/30days-front.wiki
+  paperboy-30days/30days-puppet.wiki
 !
 
 unless Dir.exists?(repos_path)
